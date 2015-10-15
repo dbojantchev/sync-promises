@@ -1,0 +1,76 @@
+[
+        {
+            "userId": 143,
+            "email": "0a01h9j4kil5bm38v9ix1k9i9ec5a1kbkkb",
+            "firstName": "takimata",
+            "lastName": "sanctus",
+            "role": "Purchasing",
+            "status": "Active"
+        },
+        {
+            "userId": 423,
+            "email": "cfds54f3okr11tiqecuq37gndee4i6oa00n",
+            "firstName": "dolore",
+            "lastName": "etjusto",
+            "role": "Purchasing",
+            "status": "Active"
+        },
+        {
+            "userId": 592,
+            "email": "f54vihp0p3ms26sidswmnm7cs8nlahj4sv8",
+            "firstName": "aliquyam",
+            "lastName": "invidunt",
+            "role": "Equipment Manager",
+            "status": "Active"
+        },
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "status": "Active",
+        "email": "johnd@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName": "Mary",
+        "lastName": "Jane",
+        "status": "Active",
+        "email": "maryj@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName": "Jerry",
+        "lastName": "Brown",
+        "status": "Active",
+        "email": "jerry@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName": "Robert",
+        "lastName": "Downey",
+        "status": "Active",
+        "email": "rob@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName": "Phillip",
+        "lastName": "Seymour",
+        "status": "Active",
+        "email": "phillip@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName":"Russell",
+        "lastName": "Coutts",
+        "status": "Active",
+        "email": "rc@foo.com",
+        "role": "Manager"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Spinks",
+        "status": "Active",
+        "email": "spinks@foo.com",
+        "role": "Manager"
+    }
+]
+

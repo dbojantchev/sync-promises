@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="synchronisePromises.js"></script>
+
+
+    <script>
+
+
+        /* Usage Info */
+
+        function f1(){
+            return $.get( "data/allotment.json");
+        }
+
+        function f2(){
+            return $.get( "data/billingAddress.json");
+        }
+
+        function f3(){
+            return $.get( "data/creditInfo.json");
+        }
+
+        function f4(){
+            return $.get( "data/items.json");
+        }
+
+        function global_callback(data_array){
+
+            console.log("Global Callback Invoked!!");
+            $("#plate1").html(JSON.stringify(data_array['f1']));
+            $("#plate2").html(JSON.stringify(data_array['f2']));
+            $("#plate3").html(JSON.stringify(data_array['f3']));
+            $("#plate4").html(JSON.stringify(data_array['f4']));
+        }
+
+        $(document).ready(function(){
+            synchronizePromises([f1, f2, f3, f4], global_callback);
+        });
+
+    </script>
+
+    <title>Promises Test</title>
+
+    <style>
+        .plate{
+            width:600px;
+            min-height:50px;
+            border: 3px solid;
+            border-collapse: collapse;;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="plate1" class="plate">Plate 1</div>
+    <div id="plate2" class="plate">Plate 2</div>
+    <div id="plate3" class="plate">Plate 3</div>
+    <div id="plate4" class="plate">Plate 4</div>
+
+</body>
+</html>
+

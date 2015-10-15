@@ -1,0 +1,227 @@
+[
+    {
+        "serialNumber": 5000367337,
+        "confirmationCode": "635364-23",
+        "status": "PENDING",
+        "deviceType": "Transponder",
+        "model": "GTX-20"
+    },
+    {
+        "serialNumber": 5010568359,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000007110,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-23"
+    },
+    {
+        "serialNumber": 5000055753,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5010345721,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31"
+    },
+    {
+        "serialNumber": 5000386819,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.A"
+    },
+    {
+        "serialNumber": 5000486953,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000245294,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.B"
+    },
+    {
+        "serialNumber": 5000003785,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "DFW-12"
+    },
+    {
+        "serialNumber": 5000427055,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-16"
+    },
+    {
+        "serialNumber": 5010550842,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000641666,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.C"
+    },
+    {
+        "serialNumber": 5000433438,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.C"
+    },
+    {
+        "serialNumber": 5000142361,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000008834,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GSX-35-34"
+    },
+    {
+        "serialNumber": 5000146178,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000552320,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "HTX-726"
+    },
+    {
+        "serialNumber": 5000082636,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000008186,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.A"
+    },
+    {
+        "serialNumber": 5000394432,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "BTX-254"
+    },
+    {
+        "serialNumber": 5010569646,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "HTX-728"
+    },
+    {
+        "serialNumber": 5000212071,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000041336,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31"
+    },
+    {
+        "serialNumber": 5000192618,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000270934,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "HTX-728"
+    },
+    {
+        "serialNumber": 5000006212,
+        "confirmationCode": "827364-23",
+        "status": "PENDING",
+        "deviceType": "Transponder",
+        "model": "JPX-3847"
+    },
+    {
+        "serialNumber": 5000245285,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "JXH-758"
+    },
+    {
+        "serialNumber": 5000057658,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GXF-1230"
+    },
+    {
+        "serialNumber": 5000390588,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-20"
+    },
+    {
+        "serialNumber": 5000000425,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "GTX-35"
+    },
+    {
+        "serialNumber": 5000206490,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-23"
+    },
+    {
+        "serialNumber": 5010348463,
+        "confirmationCode": "827364-23",
+        "status": "FAILED",
+        "deviceType": "Transponder",
+        "model": "XTX-31.C"
+    }
+]
+
